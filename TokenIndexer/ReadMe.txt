@@ -1,0 +1,1 @@
+Copy the  the file token_transfers.json to the home directory
